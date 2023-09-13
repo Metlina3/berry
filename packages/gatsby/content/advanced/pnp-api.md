@@ -6,7 +6,7 @@ description: In-depth documentation of the PnP API.
 ---
 
 ```toc
-# This code block gets replaced with the Table of Contents
+# This code  gets replaced with the Table of Contents
 ```
 
 ## Overview
